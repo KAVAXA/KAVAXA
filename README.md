@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KAVAXA
-- 👀 I’m interested in C#, HTML, JavaScript,css, WEB-Design and friendly users)
-- 🌱 I’m currently learning WEB Developing, WEB-Design
-- 📫 How to reach me - Discord: K A V A X A#6862
+- ✌ Hi, I’m @KAVAXA
+- 😜 I’m interested in C#, HTML, JavaScript, CSS, WEB-Design and friendly users !-\-_-/-!
+- 🪁 I’m currently learning WEB Developing, WEB-Design, Desktop applications.
+- 📫 How to reach me - Discord: @kavaxa
 
 <!---
 KAVAXA/KAVAXA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
